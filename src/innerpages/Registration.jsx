@@ -1,5 +1,5 @@
 import React,{useState,useEffect} from 'react'
-import innerstyles from './innerstyles.module.css'
+import innerstyles from './innerStyles.module.css'
 import axios from 'axios';
 const Registration = () => {
     const [data, setData] = useState({
