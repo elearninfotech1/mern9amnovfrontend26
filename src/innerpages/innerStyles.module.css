@@ -1,0 +1,42 @@
+.bread
+{
+    background-color: #9259ce;
+    padding: 30px 0;
+}
+.bread h2
+{
+    color: #fff;
+    font-weight: 500;
+}
+
+.formbg
+{
+    background-color: #d5c3e9;
+    padding: 30px;
+}
+
+.bX_shadow
+{
+    box-shadow: 1px 3px 9px #727171
+}
+
+.aboutus h1, .courses h1, .demo h1
+{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.aboutus h1 span, .courses h1 span, .demo h1 span
+{
+    color:#47197b
+}
+.aboutus p
+{
+    text-align: justify;
+    line-height: 30px;
+}
+
+.bgmain
+{
+    background-color: rgb(206, 249, 222);
+}
